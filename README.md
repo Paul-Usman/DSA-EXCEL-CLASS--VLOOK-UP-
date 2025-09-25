@@ -18,6 +18,7 @@ The aim of this project is to use VLOOK UP function to fetch data from one table
 ### Data Sources
 The data used for this project was shared in the class.
 ### Tool Used
+- Ms Excel for data collection [Download Here](https://www.microsoft.com)
 Excel spreadsheet was used for this class.
 ### Data Analysis
 Here, we were able to apply the function of vlookup and learnt the types of cell referencing which made the vlookup function like a magic wand.  They are:
