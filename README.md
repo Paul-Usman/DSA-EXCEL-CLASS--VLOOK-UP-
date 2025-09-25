@@ -40,3 +40,6 @@ Here is the formula we used for the class
 
 ```` Excel
 =VLOOKUP($E9,'Simple Salary Structure'!$B$7:$I$16,F$7,0)
+
+[Excel Functions 5 - LookUp.xlsx](https://github.com/user-attachments/files/22542738/Excel.Functions.5.-.LookUp.xlsx)
+
